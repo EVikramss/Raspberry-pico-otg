@@ -1,3 +1,5 @@
+/* Modified Version of libaums file to support FAT 16 */
+
 /*
  * (C) Copyright 2014-2016 mjahnen <github@mgns.tech>
  *
