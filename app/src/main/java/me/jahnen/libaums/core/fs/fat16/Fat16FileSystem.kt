@@ -1,3 +1,5 @@
+/* Modified Version of libaums file to support FAT 16 */
+
 package me.jahnen.libaums.core.fs.fat16
 
 import android.util.Log
