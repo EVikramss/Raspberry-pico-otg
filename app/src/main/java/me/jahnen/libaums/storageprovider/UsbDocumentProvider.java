@@ -1,4 +1,6 @@
-	/*
+/* Modified Version of libaums file to support FAT 16 */
+
+/*
      * (C) Copyright 2016 mjahnen <github@mgns.tech>
      *
      * Licensed under the Apache License, Version 2.0 (the "License");
